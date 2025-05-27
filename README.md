@@ -15,7 +15,7 @@ This project analyzes labor market data from the Bureau of Labor Statistics (BLS
 
 
 ## 📌 Data Source
-- **Source:** [Bureau of Labor Statistics (BLS) – QCEW](https://www.bls.gov/cew/)
+- **Source:** [Bureau of Labor Statistics (BLS) – QCEW](https://data.bls.gov/cew/apps/data_views/data_views.htm#tab=Tables)
 - **Data:** Texas Private Sector, NAICS Sectors, Q1 2024
 
 ## 🛠 Tools Used
